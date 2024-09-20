@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning Visual Intelligence.
 
 <!--
 **bbbugg/bbbugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
