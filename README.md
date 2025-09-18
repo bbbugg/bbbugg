@@ -5,7 +5,8 @@
 
 [![Top Langs](https://github-readme-stats-pi-eight-35.vercel.app/api/top-langs/?username=bbbugg&layout=compact&langs_count=10&card_width=495&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![WakaTime stats](https://github-readme-stats-pi-eight-35.vercel.app/api/wakatime?username=bbbugg&hide=Other&display_format=percent&layout=compact&langs_count=9&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats-pi-eight-35.vercel.app/api/wakatime?username=bbbugg&hide=Other&display_format=percent&layout=compact&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **bbbugg/bbbugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
