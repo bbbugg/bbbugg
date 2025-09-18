@@ -3,7 +3,7 @@
 
 [![GitHub stats](https://github-readme-stats-pi-eight-35.vercel.app/api?username=bbbugg&show_icons=true&theme=transparent&rank_icon=github&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-pi-eight-35.vercel.app/api/top-langs/?username=bbbugg&layout=compact&langs_count=10&card_width=495&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-pi-eight-35.vercel.app/api/top-langs/?username=bbbugg&layout=compact&langs_count=10&card_width=495&theme=transparent&exclude_repo=PlantsVsZombies&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 [![WakaTime stats](https://github-readme-stats-pi-eight-35.vercel.app/api/wakatime?username=bbbugg&hide=Other&display_format=percent&layout=compact&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
