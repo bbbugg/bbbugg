@@ -7,8 +7,6 @@
 
 [![WakaTime stats](https://github-readme-stats-pi-eight-35.vercel.app/api/wakatime?username=bbbugg&hide=Other&display_format=percent&layout=compact&langs_count=8&theme=transparent&ordering=vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://my.ippure.com/v1/card" alt="访客IP信息卡片">
-
 <!--
 **bbbugg/bbbugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
