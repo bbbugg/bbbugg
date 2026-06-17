@@ -15,7 +15,7 @@
   <a href="https://github.com/iBUHub/TJUEcard"><img alt="Readme Card" src="https://github-readme-stats-pi-eight-35.vercel.app/api/pin/?username=ibuhub&repo=TJUEcard&description_lines_count=3" /></a>
 </div>
 
-<br />
+
 
 <div align="center">
   <h3>Personal Stats</h3>
